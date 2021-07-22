@@ -4,7 +4,7 @@ public class NotacaoPonto {
 	
 	public static void main(String[] args) {
 		
-		double a = 2.3; //roxo/negrito - palavras reservadas (tipos primitivos no caso)
+		//double a = 2.3; //roxo/negrito - palavras reservadas (tipos primitivos no caso)
 		String s = "Bom dia X"; //Não primitivo / Não reservado
 		s = s.replace("X", "Senhora");
 		s = s.toUpperCase();
